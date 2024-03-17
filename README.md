@@ -50,6 +50,9 @@ Moreover, the AI empowers users to communicate with the application using simple
 ### 6. Unkey
 [Unkey](https://github.com/unkeyed/unkey) is Open Source API Key Management. API authentication made easy.
 
+### 7. Documenso
+[Documenso](https://github.com/documenso/documenso) aims to be the world's most trusted document signing tool. This trust is built by empowering you to self-host Documenso and review how it works under the hood.
+
 ## V. AI / ML / Chat bot
 
 ### 1. Civitai  
