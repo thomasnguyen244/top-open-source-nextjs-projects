@@ -4,7 +4,7 @@ Original Post: https://dev.to/alisamirali/top-open-source-nextjs-projects-for-me
 
 With the repo, I will list there top of open source Next.js Projects
 
-## App development platform
+## I. App development platform
 An app development platform that helps you build and grow apps and games users love
 
 ### 1. Supabase
@@ -12,13 +12,13 @@ An app development platform that helps you build and grow apps and games users l
 This platform enables developers to craft scalable and fortified web applications, all while ensuring compatibility with prevalent tools and extensions.
 
 
-## Project Management
+## II. Project Management
 
 ### 1. Plane
 [Plane](https://github.com/makeplane/plane) is a freely accessible project management solution designed to streamline the tracking of issues, epics, and product roadmaps. Utilized by numerous companies worldwide, it boasts a user-friendly interface, robust query capabilities, customizable workflow options, and seamless integrations with leading platforms such as GitHub, Slack, and Figma.
 
 
-## CRM / Survey / Sales Tool
+## III. CRM / Survey / Sales Tool
 
 ### 1. Formbricks
 [Formbricks](https://github.com/formbricks/formbricks) is an open-source survey platform that enables users to collect feedback from multiple channels and seamlessly integrate with diverse tools. With its intuitive no-code editor, users can effortlessly craft surveys, precisely target specific user demographics, collaborate with team members, and harness the Formbricks Insight Platform for data analysis or develop custom analytics solutions.
@@ -26,7 +26,7 @@ This platform enables developers to craft scalable and fortified web application
 ### 2. Twenty
 When considering alternatives, [Twenty](https://github.com/twentyhq/twenty) stands out for its provision of complete control, freedom, and the opportunity for users to contribute, self-host, and fork, thereby escaping vendor lock-in and empowering users to influence the CRM's open future. Additionally, it places a strong emphasis on data accessibility and visualization from diverse sources without requiring retrofitting, while boasting an intuitively designed interface inspired by Notion.
 
-## Tools
+## IV. Tools
 
 ### 1. Dub.co
 [Dub.co](https://github.com/dubinc/dub) is a cutting-edge link management tool designed for contemporary marketing teams, enabling them to generate, distribute, and monitor short links. One of its standout features is the ability to self-host Dub.co on your server, granting greater control over data and design. This presents an exciting opportunity to explore Next.js.
@@ -47,14 +47,14 @@ What sets Cal.com apart is its seamless integration with a plethora of services 
 
 Moreover, the AI empowers users to communicate with the application using simple language commands to execute actions like replying, forwarding, or archiving emails based on predefined criteria. Additionally, users have the option to enter planning mode to review AI-generated suggestions before implementation.
 
-## AI / ML / Chat bot
+## V. AI / ML / Chat bot
 
 ### 1. Civitai  
 [Civitai](https://github.com/civitai/civitai) serves as an open-source hub, enabling individuals to exchange, cooperate, and glean insights from one another's refined diffusion models for AI customization. Through the platform, users can engage in collaborative endeavors, offering comments and feedback on fellow members' models, thereby fostering a culture of shared learning and cooperation.
 
-## Low-Code / No-Code
+## VI. Low-Code / No-Code
 - 
-## HRM
+## VII. HRM
 -
-## Ecommerce
+## VIII. Ecommerce
 -
