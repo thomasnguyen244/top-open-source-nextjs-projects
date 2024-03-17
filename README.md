@@ -1,7 +1,5 @@
 # Top Open Source Next.js Projects - List of Open Source Next.js Projects
 
-Original Post: https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4
-
 With the repo, I will list there top of open source Next.js Projects
 
 ## I. App development platform
@@ -67,3 +65,7 @@ Moreover, the AI empowers users to communicate with the application using simple
 -
 ## VIII. Ecommerce
 -
+
+## References
+- Original Post: https://dev.to/alisamirali/top-open-source-nextjs-projects-for-meaningful-contributions-5hn4
+- Other Post: https://dev.to/devkiran/9-open-source-nextjs-projects-open-for-contributions-272c
