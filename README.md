@@ -47,10 +47,16 @@ What sets Cal.com apart is its seamless integration with a plethora of services 
 
 Moreover, the AI empowers users to communicate with the application using simple language commands to execute actions like replying, forwarding, or archiving emails based on predefined criteria. Additionally, users have the option to enter planning mode to review AI-generated suggestions before implementation.
 
+### 6. Unkey
+[Unkey](https://github.com/unkeyed/unkey) is Open Source API Key Management. API authentication made easy.
+
 ## V. AI / ML / Chat bot
 
 ### 1. Civitai  
 [Civitai](https://github.com/civitai/civitai) serves as an open-source hub, enabling individuals to exchange, cooperate, and glean insights from one another's refined diffusion models for AI customization. Through the platform, users can engage in collaborative endeavors, offering comments and feedback on fellow members' models, thereby fostering a culture of shared learning and cooperation.
+
+### 2. Typebot.io
+[Typebot.io](https://github.com/baptisteArno/typebot.io) is an open-source chatbot builder. It allows you to create advanced chatbots visually, embed them anywhere on your web/mobile apps, and collect results in real time.
 
 ## VI. Low-Code / No-Code
 - 
